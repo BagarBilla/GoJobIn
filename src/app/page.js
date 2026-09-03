@@ -20,8 +20,8 @@ export default function Home() {
       <Companies />
       <JobRoles />
       <ResumeTemplate />
-      <Reviews />
-      <CareerResources /> */}
+      <Reviews /> */}
+      <CareerResources />
     </>
   );
 }
