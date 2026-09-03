@@ -15,13 +15,13 @@ export default function Home() {
     <>
       <Navbar />
       <Hero />
-      <Opportunities />
+      {/* <Opportunities />
       <WorkFlow />
       <Companies />
       <JobRoles />
       <ResumeTemplate />
       <Reviews />
-      <CareerResources />
+      <CareerResources /> */}
     </>
   );
 }
